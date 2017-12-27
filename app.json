@@ -1,0 +1,6 @@
+{
+  "name": "Coach",
+  "description": "Coach landing page",
+  "keywords": ["coach", "node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}
